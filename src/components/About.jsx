@@ -14,24 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <b>Languages</b>:Javascript, java  <br />
+        <b>Frameworks</b>: Express <br />
+        <b>Chatbots</b>:Web Chatbot, NLP, Facebook Messenger, Telegram, Alexa Voice Bot.<br />
+        <b>Tools</b> :MySQL Workbench, Git, Dialogflow.<br />
+        <b>Editor Journey</b>:Sublime, Netbeans, VS Code<br />
+        <b>Operating System</b>: Linux, Windows<br />
+       
+        <b>Experience</b> <br />
+
+        Total Exp. - 1+ Years
+        Current Employer - Backend Developer, Function-Up, Bangalore, India
         </p>
 
-        <br />
+       
 
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
       </div>
     </div>
   );
